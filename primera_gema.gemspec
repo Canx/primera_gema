@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{primera_gema}
-  s.version = "0.0.0"
+  s.version = "0.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Canx"]
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/primera_gema.rb",
+    "primera_gema.gemspec",
     "test/helper.rb",
     "test/test_primera_gema.rb"
   ]
